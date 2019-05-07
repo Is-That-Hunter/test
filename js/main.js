@@ -30,7 +30,9 @@ window.onload = function(){
 	// start game
 	game.state.start('Boot');
 
-
+	var HFL = 10;
+	var Hunter = 5;
+	var Lynch = 0;
 }
 
 
