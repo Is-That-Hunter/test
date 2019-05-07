@@ -1,0 +1,4 @@
+# practice .gitignore for checking stuff
+
+*.png
+.DS_Store
