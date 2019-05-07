@@ -11,7 +11,6 @@
 var game;
 // these two variables test git
 var background;
-var temptest;
 // implement more as we go
 
 
@@ -30,13 +29,6 @@ window.onload = function(){
 	// start game
 	game.state.start('Boot');
 
-
-	var Hunter = 5;
-	var Lynch = 0;
-
-	var HFL = 3;
-	
-	var x = 6;
 
 
 }
