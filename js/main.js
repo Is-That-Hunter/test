@@ -9,7 +9,9 @@
 
 // define global variables
 var game;
-
+// these two variables test git
+var background;
+var temptest;
 // implement more as we go
 
 
@@ -27,6 +29,7 @@ window.onload = function(){
 
 	// start game
 	game.state.start('Boot');
+
 
 }
 
